@@ -11,15 +11,15 @@ It is a ready-to-run code.
 # Training
 Training on GPU:
 
-```python3 multiclass_classification_gpu.py ```
+```python3 Image_Classifier_gpu.py ```
 
 Training on CPU:
 
-```python3 multiclass_classification_cpu.py ```
+```python3 Image_Classifier_cpu.py ```
 
 # Notebook
 
-```jupyter lab  Multiclass_classification.ipynb``` or ```jupyter notebook Multiclass_classification.ipynb ```
+```jupyter lab  Image_Classifier.ipynb``` or ```jupyter notebook Image_Classifier.ipynb ```
 
 # Data
 
